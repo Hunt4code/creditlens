@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/raw/*.csv
+data/processed/
+ml/models/artifacts/
+ml/models/mlruns/
+.DS_Store
+*.egg-info/
+dist/
+.pytest_cache/
+*.ipynb_checkpoints
+notebooks/.ipynb_checkpoints/
